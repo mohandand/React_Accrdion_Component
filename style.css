@@ -1,3 +1,14 @@
-h1, p {
+h1,
+p {
   font-family: Lato;
+}
+.Accrdion {
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+}
+.accrdioncotent {
+  overflow: hidden;
 }
